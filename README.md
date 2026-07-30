@@ -1,16 +1,89 @@
-## Hi there 👋
+# Hi, I'm Sandya Beemaneni 👋
 
-<!--
-**SandyaBeemaneni/SandyaBeemaneni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Senior Cloud Data Platform Engineer | Senior Data Engineer
 
-Here are some ideas to get you started:
+I design and support secure, scalable cloud data platforms for analytics, reporting, machine learning, and generative AI workloads.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have 6+ years of experience developing production data pipelines, building governed data layers, improving data quality, automating infrastructure and deployments, optimizing cloud costs, and supporting business-critical workloads in financial services and healthcare environments.
+
+---
+
+## 🛠️ Technical Skills
+
+### Data Engineering
+`Python` `SQL` `PySpark` `Apache Spark` `Apache Airflow` `AWS Glue` `Azure Data Factory` `ETL/ELT`
+
+### Cloud and Data Platforms
+`AWS` `Azure` `Databricks` `Snowflake` `Amazon Redshift` `PostgreSQL` `MySQL`
+
+### Platform Engineering
+`Terraform` `Docker` `Kubernetes` `Helm` `GitHub Actions` `Jenkins` `ArgoCD`
+
+### Monitoring and Reliability
+`Prometheus` `Grafana` `CloudWatch` `Azure Monitor` `ELK`
+
+### Data Governance and Security
+`Data Quality` `Data Validation` `Reconciliation` `IAM/RBAC` `Encryption` `Audit Logging`
+
+---
+
+## 🚀 Featured Projects
+
+### Financial Data Platform Demo — In Progress
+
+A production-style data pipeline for processing synthetic financial transactions through ingestion, validation, transformation, and curated reporting layers.
+
+**Technologies:** Python, PySpark, Apache Airflow, SQL, PostgreSQL, Docker and GitHub Actions.
+
+**Key capabilities:**
+
+- Bronze, silver, and gold data layers
+- Automated data-quality validation
+- Invalid-record quarantine
+- Source-to-target reconciliation
+- Airflow-based orchestration
+- SQL reporting models
+- Automated testing and CI/CD
+
+> This project uses synthetic data and does not contain employer code, client data, or proprietary architecture.
+
+### Healthcare Claims Lakehouse Demo — Planned
+
+A synthetic healthcare claims pipeline demonstrating lakehouse architecture, PySpark transformations, validation controls, PHI masking, and analytical aggregations.
+
+### Data Platform Observability Demo — Planned
+
+A reference implementation for monitoring pipeline failures, execution duration, data-volume changes, and infrastructure health.
+
+---
+
+## 📜 Certifications
+
+- AWS Certified Solutions Architect – Associate
+- Microsoft Certified: Azure Administrator Associate
+- HashiCorp Certified: Terraform Associate
+- Databricks Academy Accreditation – Generative AI Fundamentals
+
+---
+
+## 📌 Currently Building
+
+I am currently developing practical reference implementations for:
+
+- Secure financial data pipelines
+- Healthcare lakehouse processing
+- Data-quality automation
+- Cloud data-platform observability
+- Infrastructure as Code and CI/CD
+
+---
+
+## 🤝 Connect With Me
+
+- **Portfolio:** [sandya-beemaneni.vercel.app](https://sandya-beemaneni.vercel.app/)
+- **LinkedIn:** [Sandya Beemaneni](https://www.linkedin.com/in/sandya-b-24j9917f99)
+- **Email:** [bsandya1926@gmail.com](mailto:bsandya1926@gmail.com)
+
+---
+
+*All public projects use synthetic or publicly available data and are independent reference implementations.*
