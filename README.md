@@ -76,9 +76,6 @@ A production-style synthetic healthcare claims pipeline implementing bronze, sil
 
 > All patient, provider, diagnosis, and claim information is synthetic. The project contains no employer code, client data, credentials, or proprietary architecture.
 
-### Data Platform Observability Demo — Planned
-
-A reference implementation for monitoring pipeline failures, execution duration, data-volume changes, and infrastructure health.
 
 ---
 
@@ -91,15 +88,15 @@ A reference implementation for monitoring pipeline failures, execution duration,
 
 ---
 
-## 📌 Currently Building
+## 📌 Current Engineering Focus
 
-I am currently developing practical reference implementations for:
+My current areas of technical development include:
 
-- Secure financial data pipelines
-- Healthcare lakehouse processing
-- Data-quality automation
 - Cloud data-platform observability
-- Infrastructure as Code and CI/CD
+- Infrastructure as Code for data workloads
+- Pipeline reliability and operational monitoring
+- Governed datasets for analytics and AI/ML workloads
+- Secure deployment automation with Kubernetes and CI/CD
 
 ---
 
