@@ -29,23 +29,28 @@ I have 6+ years of experience developing production data pipelines, building gov
 
 ## 🚀 Featured Projects
 
-### Financial Data Platform Demo — In Progress
+### [Financial Data Platform Demo](https://github.com/SandyaBeemaneni/financial-data-platform-demo)
 
-A production-style data pipeline for processing synthetic financial transactions through ingestion, validation, transformation, and curated reporting layers.
+A production-style financial transaction pipeline implementing bronze, silver, quarantine, and gold data layers.
 
 **Technologies:** Python, PySpark, Apache Airflow, SQL, PostgreSQL, Docker and GitHub Actions.
 
-**Key capabilities:**
+**Project highlights:**
 
-- Bronze, silver, and gold data layers
+- Bronze, silver, quarantine, and gold data layers
 - Automated data-quality validation
-- Invalid-record quarantine
+- Invalid-record quarantine with error reasons
 - Source-to-target reconciliation
 - Airflow-based orchestration
 - SQL reporting models
-- Automated testing and CI/CD
+- Automated testing and GitHub Actions CI/CD
+- 250 synthetic source records processed
+- 238 valid records and 12 quarantined records
+- 95.2% data-quality pass rate
 
-> This project uses synthetic data and does not contain employer code, client data, or proprietary architecture.
+[View the project repository →](https://github.com/SandyaBeemaneni/financial-data-platform-demo)
+
+> This project uses synthetic data and contains no employer code, client data, credentials, or proprietary architecture.
 
 ### Healthcare Claims Lakehouse Demo — Planned
 
