@@ -52,9 +52,29 @@ A production-style financial transaction pipeline implementing bronze, silver, q
 
 > This project uses synthetic data and contains no employer code, client data, credentials, or proprietary architecture.
 
-### Healthcare Claims Lakehouse Demo — Planned
+### [Healthcare Claims Lakehouse Demo](https://github.com/SandyaBeemaneni/healthcare-claims-lakehouse-demo)
 
-A synthetic healthcare claims pipeline demonstrating lakehouse architecture, PySpark transformations, validation controls, PHI masking, and analytical aggregations.
+A production-style synthetic healthcare claims pipeline implementing bronze, silver, quarantine, and gold lakehouse layers.
+
+**Technologies:** Python, PySpark, Apache Airflow, SQL, Docker and GitHub Actions.
+
+**Project highlights:**
+
+- Synthetic healthcare claims ingestion
+- Duplicate and invalid-claim detection
+- Patient-ID pseudonymization
+- Raw patient IDs and names removed from the curated silver layer
+- Invalid-record quarantine with error reasons
+- Provider, diagnosis, and monthly-utilization analytics
+- Source-to-target reconciliation
+- Automated testing and GitHub Actions CI/CD
+- 300 synthetic claims processed
+- 284 valid masked claims and 16 quarantined claims
+- 94.67% data-quality pass rate
+
+[View the project repository →](https://github.com/SandyaBeemaneni/healthcare-claims-lakehouse-demo)
+
+> All patient, provider, diagnosis, and claim information is synthetic. The project contains no employer code, client data, credentials, or proprietary architecture.
 
 ### Data Platform Observability Demo — Planned
 
